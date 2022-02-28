@@ -1,0 +1,19 @@
+segment_sources:
+  P0A84A083:
+    type: origin_type
+    relation: translation
+    language: en
+  P4CB0ECCC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  896492b6d06540119f73fa9b50632e6d:
+    P0A84A083: 0a563a81c2374f96bafe6f496f673ca2
+    P4CB0ECCC: 35c0f49c21e44b068add12bce8b6445c
+  b39276bc77034a22b8a817b5bcaa9b02:
+    P0A84A083: fa5fae8de70d4628a426344590af8f17
+    P4CB0ECCC: 0a307919925c44d28290b94f25360268
+  415727c00ead440ab7dd5bc8d7db4920:
+    P0A84A083: 8b30020a77804112a8ed3969584c3939
+    P4CB0ECCC: 3a229892d6f541259658324ec554e4db
